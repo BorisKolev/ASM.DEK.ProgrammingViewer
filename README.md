@@ -16,10 +16,10 @@ Advanced features: Reflection, Selection Tree, DataTemplates, etc.
 
 # User Interface
 
-![](images/Initialize.PNG)
+![](images/Initialize.png)
 
-![](images/Browse.PNG)
+![](images/Browse.png)
 
-![](images/ProgramTree.PNG)
+![](images/ProgramTree.png)
 
-![](images/ProgramData.PNG)
+![](images/ProgramData.png)
