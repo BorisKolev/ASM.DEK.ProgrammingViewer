@@ -10,8 +10,11 @@ You can choose whether to navigate to zipped file, or ProgramRepository folder.
 # Type of software used
 
 Language: C#
+
 Project: WPF
+
 Framework: Prism
+
 IoC Container: Ninject
 
 Design patterns: MVVM, Singleton, Factory, etc.
