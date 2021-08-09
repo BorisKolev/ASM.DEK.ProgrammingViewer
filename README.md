@@ -1,2 +1,25 @@
-# ASM.DEK.ProgrammingViewer
-Standalone application used for sorting and displaying data in an easy-to-understand UI
+# ASM.DEK.Printer.ProgrammingViewer
+
+Standalone application used internally within ASM Assembly Systems used to read files with information about the current programs runned on the machine before it crashes.
+The information is stored within .xml files once read it connects the references and displays the information into an easy-to-understand UI.
+
+Type of software used
+
+Language: C#
+Project: WPF
+Framework: Prism
+IoC Container: Ninject
+
+Design patterns: MVVM, Singleton, Factory, etc.
+
+Advanced features: Reflection, Selection Tree, DataTemplates, etc.
+
+# User Interface
+
+![](images/Initialize.png)
+
+![](images/Browse.png)
+
+![](images/ProgramTree.png)
+
+![](images/ProgramData.png)
