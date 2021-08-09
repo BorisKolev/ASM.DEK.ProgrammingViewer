@@ -1,6 +1,6 @@
 # ASM.DEK.Printer.ProgrammingViewer
 
-# Did not include the source code because the project can not be run on your local device due to company protection
+# Did not include the source code because the project can not be run on your local machine due to company protection
 
 # Overview
 
