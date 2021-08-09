@@ -44,7 +44,7 @@ Advanced features: Reflection, Selection Tree, DataTemplates, etc.
 
 # Main Program class
 
-![](Images/GeneralClassDiagram.png)
+![](Images/ProgramItemCode.png)
 
 # Reflection
 
